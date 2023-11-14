@@ -1,0 +1,101 @@
+.body{
+font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Roboto Mono', monospace;
+}
+
+.nav-item{
+letter-spacing : .2em;
+font-size : 14px;
+text-transform : uppercase;
+}
+
+.dropdown-item{
+letter-spacing : .2em;
+font-size : 14px;
+text-transform : uppercase;
+}
+
+.footer {
+height:60px;
+}
+
+.footer p{
+padding-top:20px;
+font-size:14px;
+}
+
+.my_row{
+padding-top:15px;
+}
+.my_row .mx_auto{
+font-size:12px;
+}
+
+.my_image{
+width=100%;
+height=auto;
+}
+
+.my_title{
+font-size : 16px;
+text-transform : uppercase;
+letter-spacing : .2em;
+}
+
+.my_pro{
+margin-bottom:10px;
+
+}
+
+.card-title {
+text-transform:uppercase;
+}
+
+.row_class{
+padding-top:15px;
+padding-bottom;20px;
+
+}
+.row_class .mx_auto{
+color:#000;
+font-size:12px;
+text-decoration:none;
+
+}
+
+.prod_title{
+font-size:16px;
+text-transform:uppercase;
+letter-spacing:.2em;
+padding-top:15px;
+padding-bottom:10px;
+
+}
+.text-just{
+text-align:justify;
+}
+
+.my_search{
+padding-top:20px;
+}
+
+/*** cart ***/
+.my_table{
+min-width:400px;
+font-size:14px;
+}
+.my_head{
+font-weight:normal;
+text-transform:uppercase;
+letter-spacing:.2em;
+background-color:Silver;
+border-bottom:1px solid black;
+}
+
+.custom_a{
+text-decoration:none;
+}
+.my_button{
+margin-top:px;
+
+}
